@@ -343,4 +343,12 @@
   .about-content{
     grid-template-columns: repeat(1,1fr);
   }
+  .search-input {
+    font-family: var(--Roboto);
+    font-size: 1.2rem;
+    outline: none;
+    padding: 0.6rem 0;
+    border: none;
+    width: 80%;
+  }
  }
